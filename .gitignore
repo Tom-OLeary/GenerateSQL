@@ -3,4 +3,4 @@
 db.sqlite3
 gensqlenv
 generator/__pycache__/
-__pycache__
+__pycache__/
