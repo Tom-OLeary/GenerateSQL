@@ -2,3 +2,4 @@
 .idea/
 db.sqlite3
 gensqlenv
+generator/__pycache__/
