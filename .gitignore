@@ -1,0 +1,4 @@
+.DS_STORE
+.idea/
+db.sqlite3
+gensqlenv
